@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MusicDb SYSTEM "MusicDb.dtd">
+<MusicDb>
+	<Album>
+		<AlbumTitle>Hybrid Theory</AlbumTitle>
+		<AlbumArtist>Linkin Park</AlbumArtist>
+		<Genre>Alternative Rock</Genre>
+		<Publisher>Warner Bros</Publisher>
+		<Year>2000</Year>
+		<AlbumPrice>3</AlbumPrice>
+		<Song>
+			<SongTitle>Points of Authority</SongTitle>
+			<SongArtist>Linkin Park</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>In the End</SongTitle>
+			<SongArtist>Linkin Park</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Pushing Me Away</SongTitle>
+			<SongArtist>Linkin Park</SongArtist>
+			<SongPrice>1</SongPrice>			
+		</Song>
+	</Album>
+	<Album>
+		<AlbumTitle>Meteora</AlbumTitle>
+		<AlbumArtist>Linkin Park</AlbumArtist>
+		<Genre>Alternative Rock</Genre>
+		<Publisher>Warner Bros</Publisher>
+		<Year>2003</Year>
+		<AlbumPrice>15</AlbumPrice>
+		<Song>
+			<SongTitle>Somewhere I Belong</SongTitle>
+			<SongArtist>Linkin Park</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Faint</SongTitle>
+			<SongArtist>Linkin Park</SongArtist>
+			<SongPrice>1</SongPrice>			
+		</Song>
+	</Album>
+	<Album>
+		<AlbumTitle>Pandora's Toys</AlbumTitle>
+		<AlbumArtist>Aerosmith</AlbumArtist>
+		<Genre>Hard Rock</Genre>
+		<Publisher>Columbia</Publisher>
+		<Year>1995</Year>
+		<AlbumPrice>5</AlbumPrice>
+		<Song>
+			<SongTitle>Dream On</SongTitle>
+			<SongArtist>Aerosmith</SongArtist>
+			<SongPrice>5</SongPrice>
+		</Song>
+	</Album>
+	<Album>
+		<AlbumTitle>Tough Love: Best of the Ballads</AlbumTitle>
+		<AlbumArtist>Aerosmith</AlbumArtist>
+		<Genre>Hard Rock</Genre>
+		<Publisher>Geffen Records</Publisher>
+		<Year>2011</Year>
+		<AlbumPrice>10</AlbumPrice>
+		<Song>
+			<SongTitle>I Don't Want To Miss A Thing</SongTitle>
+			<SongArtist>Aerosmith</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Angel</SongTitle>
+			<SongArtist>Aerosmith</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Cryin</SongTitle>
+			<SongArtist>Aerosmith</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Amazing</SongTitle>
+			<SongArtist>Aerosmith</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Pink</SongTitle>
+			<SongArtist>Aerosmith</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Rag Doll</SongTitle>
+			<SongArtist>Aerosmith</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>What It Takes</SongTitle>
+			<SongArtist>Aerosmith</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+	</Album>
+	<Album>
+		<AlbumTitle>All That You Can't Leave Behind</AlbumTitle>
+		<AlbumArtist>U2</AlbumArtist>
+		<Genre>Rock</Genre>
+		<Publisher>Island</Publisher>
+		<Year>2000</Year>
+		<AlbumPrice>15</AlbumPrice>
+		<Song>
+			<SongTitle>Beautiful Day</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Stuck in a Moment You Can't Get Out of</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Elevation</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Walk On</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Kite</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>In a Little While</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Wild Honey</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Peace on Earth</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>New York</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Grace</SongTitle>
+			<SongArtist>U2</SongArtist>
+			<SongPrice>2</SongPrice>
+		</Song>
+	</Album>
+	<Album>
+		<AlbumTitle>Mother Earth</AlbumTitle>
+		<AlbumArtist>Within Temptation</AlbumArtist>
+		<Genre>Gothic Rock</Genre>
+		<Publisher>DSFA</Publisher>
+		<Year>2000</Year>
+		<AlbumPrice>25</AlbumPrice>
+		<Song>
+			<SongTitle>Mother Earth</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Ice Queen</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Our Farewell</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Caged</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>The Promise</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Never-Ending Story</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Deceiver of Fools</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Dark Wings</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>In Perfect Harmony</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+	</Album>
+	<Album>
+		<AlbumTitle>The Silent Force</AlbumTitle>
+		<AlbumArtist>Within Temptation</AlbumArtist>
+		<Genre>Gothic Rock</Genre>
+		<Publisher>GUN</Publisher>
+		<Year>2004</Year>
+		<AlbumPrice>28</AlbumPrice>
+		<Song>
+			<SongTitle>See Who I Am</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Jillian</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Stand My Ground</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Pale</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Forsaken</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Angels</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Memories</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Aquarius</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>It's the Fear</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Somewhere</SongTitle>
+			<SongArtist>Within Temptation</SongArtist>
+			<SongPrice>3</SongPrice>
+		</Song>
+	</Album>
+	<Album>
+		<AlbumTitle>All Killer, No Filler</AlbumTitle>
+		<AlbumArtist>Sum 41</AlbumArtist>
+		<Genre>Punk Rock</Genre>
+		<Publisher>Island</Publisher>
+		<Year>2001</Year>
+		<AlbumPrice>12</AlbumPrice>
+		<Song>
+			<SongTitle>Introduction to Destruction</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Nothing on My Back</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Never Wake Up</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Fat Lip</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Rhythms</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Motivation</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>In Too Deep</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Summer</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Handle This</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Crazy Amanda Bunkface</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>All She's Got</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Heart Attack</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Pain for Pleasure</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+		<Song>
+			<SongTitle>Makes No Difference</SongTitle>
+			<SongArtist>Sum 41</SongArtist>
+			<SongPrice>1</SongPrice>
+		</Song>
+	</Album>
+</MusicDb>

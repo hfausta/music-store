@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Album	(AlbumTitle, AlbumArtist, Genre, Publisher, Year, AlbumPrice, (Song)+)>
+<!ELEMENT AlbumTitle	(#PCDATA)>
+<!ELEMENT AlbumArtist	(#PCDATA)>
+<!ELEMENT Genre			(#PCDATA)>
+<!ELEMENT Publisher		(#PCDATA)>
+<!ELEMENT Year			(#PCDATA)>
+<!ELEMENT AlbumPrice	(#PCDATA)>
+<!ELEMENT Song	(SongTitle, SongArtist, SongPrice)>
+<!ELEMENT SongTitle		(#PCDATA)>
+<!ELEMENT SongArtist	(#PCDATA)>
+<!ELEMENT SongPrice		(#PCDATA)>
